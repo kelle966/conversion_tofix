@@ -1,10 +1,11 @@
-"""Conversion tools for Python"""
+"""Conversion -  Python"""
 
 def dollars2cents(dollars):
     """Convert dollars to cents"""
 
     cents = dollars * 100
     return cents
+
 
 def gallons2liters(gallons):
     """Convert gallons to liters"""
