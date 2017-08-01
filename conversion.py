@@ -3,7 +3,7 @@
 def dollars2cents(dollars):
     """Convert dollars to cents"""
 
-    cents = dollars * 100
+    cents = dollars * 100.
     return cents
 
 
