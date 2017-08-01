@@ -12,3 +12,6 @@ def gallons2liters(gallons):
 
     liters = gallons * 3.785
     return liters
+
+def hours2minutes(hours):
+    return hours*60.
